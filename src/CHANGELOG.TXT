@@ -1,0 +1,3 @@
+06/05/2017: (v1) Testata con valgrind;
+12/05/2017: (v1) Inserita la funzione dup_varr per la duplicazione dell'array;
+16/05/2017: (v1) Fixed bug nella funzione dup_var;
